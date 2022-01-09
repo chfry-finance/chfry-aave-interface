@@ -3,6 +3,7 @@
   "version": "0.2.0",
   "private": false,
   "license": "BSD-3-Clause",
+  "homepage": "http://chfry-finance.github.io/chfry-aave-interface",
   "dependencies": {
     "@0x/subproviders": "^6.5.4",
     "@aave/aave-ui-kit": "^0.1.16",
@@ -100,6 +101,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "extract-react-intl-messages": "^4.1.1",
+    "gh-pages": "^3.2.3",
     "husky": "^7.0.4",
     "imagemin-lint-staged": "^0.4.0",
     "lint-staged": "^11.2.3",
@@ -114,6 +116,7 @@
     "start": "npm i && sed -i '' 's/git+ssh/git+https/g' package-lock.json && react-app-rewired start",
     "start:dev": "react-app-rewired start",
     "build": "GENERATE_SOURCEMAP=false react-app-rewired build",
+    "deploy": "gh-pages -d build",
     "test": "react-app-rewired tests",
     "lint:fix": "prettier --write src",
     "eject": "react-scripts eject",

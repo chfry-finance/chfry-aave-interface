@@ -12,6 +12,7 @@ export const networkConfigs: Record<string, BaseNetworkConfig> = {
     publicJsonRPCUrl: [
       'https://eth-kovan.alchemyapi.io/v2/-qZ8NcwdvM8gsbxWyFl_Iw9znBN5UV3t',
       'https://kovan.poa.network',
+      // 'https://eth-kovan.alchemyapi.io/v2/-qZ8NcwdvM8gsbxWyFl_Iw9znBN5UV3t',
     ],
     addresses: {
       //duke 这几个都是部署了100多天了
