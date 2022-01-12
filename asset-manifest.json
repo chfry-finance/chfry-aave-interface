@@ -2,7 +2,7 @@
   "files": {
     "static/js/0.c7cce9c8.chunk.js": "/chfry-aave-interface/static/js/0.c7cce9c8.chunk.js",
     "static/js/1.d9f4057d.chunk.js": "/chfry-aave-interface/static/js/1.d9f4057d.chunk.js",
-    "main.js": "/chfry-aave-interface/static/js/main.340ea2af.chunk.js",
+    "main.js": "/chfry-aave-interface/static/js/main.025dac03.chunk.js",
     "runtime-main.js": "/chfry-aave-interface/static/js/runtime-main.c2f20bac.js",
     "static/css/4.9e7a8194.chunk.css": "/chfry-aave-interface/static/css/4.9e7a8194.chunk.css",
     "static/js/4.587d6274.chunk.js": "/chfry-aave-interface/static/js/4.587d6274.chunk.js",
@@ -124,6 +124,6 @@
     "static/js/runtime-main.c2f20bac.js",
     "static/css/4.9e7a8194.chunk.css",
     "static/js/4.587d6274.chunk.js",
-    "static/js/main.340ea2af.chunk.js"
+    "static/js/main.025dac03.chunk.js"
   ]
 }
