@@ -20,7 +20,7 @@ export const networkConfigs: Record<string, BaseNetworkConfig> = {
       // uiPoolDataProvider: '0x6062ad399E47BF75AEa0b3c5BE7077c1E8664Dcb', //官方的
       // uiIncentiveDataProvider: '0x9842E5B7b7C6cEDfB1952a388e050582Ff95645b', //官方的
       walletBalanceProvider: '0xbb148A3BE0819d92c6ACA1F7788E2876ca2Ab245', //duke 自己的
-      uiPoolDataProvider: '0x460Ca26a660F02FbF4dF86957211b23304Cf1555', //duke 自己的
+      uiPoolDataProvider: '0x5BE9F53641f78F98f46aaa937b50ebD1230B9Fb0', //duke 自己的
       uiIncentiveDataProvider: '0xeCF1236E20a5bDF828a1FbA4FAaAC8ad991752F7', //duke 自己的
       chainlinkFeedRegistry: '0xAa7F6f7f507457a1EE157fE97F6c7DB2BEec5cD0', //官方的
     },
